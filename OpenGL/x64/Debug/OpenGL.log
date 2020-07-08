@@ -1,0 +1,9 @@
+﻿  VertexArrayObject.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(5302,1): error C2825: '_Container': must be a class or namespace when followed by '::'
+C:\Users\Admin\Documents\OpenGL\OpenGL\OpenGL\src\VertexArrayObject.cpp(60): message : see reference to class template instantiation 'std::back_insert_iterator<std::vector<unsigned int,std::allocator<unsigned int>> *>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(5302,64): error C2510: '_Container': left of '::' must be a class/struct/union
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(5302,1): error C2182: '_Val': illegal use of type 'void'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(5307,1): error C2825: '_Container': must be a class or namespace when followed by '::'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(5307,58): error C2510: '_Container': left of '::' must be a class/struct/union
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(5307,1): error C2182: '_Val': illegal use of type 'void'
+C:\Users\Admin\Documents\OpenGL\OpenGL\OpenGL\src\VertexArrayObject.cpp(89,53): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
